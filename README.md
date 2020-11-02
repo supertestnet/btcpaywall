@@ -11,7 +11,7 @@ Install and activate the plugin through the plugins page in the backend of your 
 
 # Lnbits
 
-This plugin can only connect to lnbits wallet. Lnbits is, among other things, an abstraction layer that allows programs built for bitcoin's lightning network to communicate in a standardized way with most popular lightning network implementations, such as clightning and lnd, as well as custodial lightning wallets like opennode, lnpay, and lntxbot. You can either self-host lnbits in order to do everything with minimized trust (see github.com/lnbits/lnbits for more details) or get a custodial lnbits wallet at lnbits.com.
+This plugin can only connect to an lnbits wallet. Lnbits is, among other things, an abstraction layer that allows programs built for bitcoin's lightning network to communicate in a standardized way with most popular lightning network implementations, such as clightning and lnd, as well as custodial lightning wallets like opennode, lnpay, and lntxbot. You can either self-host lnbits in order to do everything with minimized trust (see github.com/lnbits/lnbits for more details) or get a custodial lnbits wallet at lnbits.com.
 
 Once you have an lnbits wallet, you'll need to take the url of your lnbits hostname as well as your wallet api key and add them to the settings menu of BTC Paywall. The hostname will be https://lnbits.com if that is the site you are using or, if you are self-hosting lnbits on the same server that hosts your wordpress site, it may be something like http://localhost:5000. As for your api key, obtain that by creating an lnbits wallet and looking at the righthand sidebar. "Invoice/read key" is the one you want.
 
