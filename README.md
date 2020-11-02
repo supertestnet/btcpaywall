@@ -15,6 +15,8 @@ This plugin can only connect to lnbits wallet. Lnbits is, among other things, an
 
 Once you have an lnbits wallet, you'll need to take the url of your lnbits hostname as well as your wallet api key and add them to the settings menu of BTC Paywall. The hostname will be https://lnbits.com if that is the site you are using or, if you are self-hosting lnbits on the same server that hosts your wordpress site, it may be something like http://localhost:5000. As for your api key, obtain that by creating an lnbits wallet and looking at the righthand sidebar. "Invoice/read key" is the one you want.
 
+![Screenshot showcasing api key](https://github.com/supertestnet/btcpaywall/raw/main/images/lnbits-api-key-screenshot.png)
+
 # Syntax
 
 Once the plugin is installed and your lnbits url and api key are saved in Settings, create a paywall on any wordpress page or post using this syntax: [paywall price="1"]any wordpress content[/paywall]
