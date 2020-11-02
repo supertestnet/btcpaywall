@@ -1,7 +1,7 @@
 # BTC Paywall
 A wordpress plugin that creates a paywall for almost any wordpress content, payable in bitcoin over the lightning network
 
-The files in the btcpaywall subdirectory of this git repository are the source code of the plugin. The actual plugin itself can be downloaded as a zip file here:
+The files in the btcpaywall subdirectory of this git repository are the source code of the plugin. You can download the btcpaywall subdirectory, zip it, and upload it to your wordpress directory, or -- if you don't want to do the zipping -- you can download a prezipped version here:
 
 https://highlevelbitcoin.com/wp-content/uploads/2020/11/btcpaywall-0.1.0.zip
 
