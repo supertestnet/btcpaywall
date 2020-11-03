@@ -5,6 +5,8 @@ The files in the btcpaywall subdirectory of this git repository are the source c
 
 https://highlevelbitcoin.com/wp-content/uploads/2020/11/btcpaywall-0.1.0.zip
 
+[![Watch the guide](https://raw.githubusercontent.com/supertestnet/btcpaywall/main/images/Screenshot%202020-11-03%20at%207.16.49%20AM.png)](https://raw.githubusercontent.com/supertestnet/btcpaywall/main/videos/installation-guide.mp4)
+
 # Installation
 
 Install and activate the plugin through the plugins page in the backend of your wordpress installation. Just select Add new and upload the zip file.
@@ -21,7 +23,7 @@ To connect BTC Paywall to lnbits, use the BTCPaywall Settings menu. It is locate
 
 Once the plugin is installed and your lnbits url and api key are saved in Settings, create a paywall on any wordpress page or post using this syntax: [paywall price="1"]any wordpress content[/paywall]
 
-The price, by default, is denominated in sats. In the above example, you will sell access to the content "any wordpress content" for 1 sat, or 0.00000001 bitcoins. In settings, you can change the denomination to US dollars if you want, which will cause the plugin to pull a price feed from coinbase. If you do that, [paywall price="1"]any wordpress content[/paywall] will cost the equivalent of 1 US dollar in bitcoin. You can also use decimalization if you select USD as your currency -- price="0.01" is a valid way to charge someone a penny or whatever content you are charging money for.
+The price, by default, is denominated in sats. In the above example, you will sell access to your content for 1 sat, or 0.00000001 bitcoins. In settings, you can change the denomination to US dollars if you want, which will cause the plugin to pull a price feed from coinbase. If you do that, [paywall price="1"]any wordpress content[/paywall] will cost the equivalent of 1 US dollar in bitcoin. You can also use decimalization if you select USD as your currency -- price="0.01" is a valid way to charge someone a penny for your content.
 
 # Details
 
