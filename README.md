@@ -3,7 +3,7 @@ A wordpress plugin that creates a paywall for almost any wordpress content, paya
 
 The files in the btcpaywall subdirectory of this git repository are the source code of the plugin. You can download the btcpaywall subdirectory, zip it, and upload it to your wordpress directory, or -- if you don't want to do the zipping -- you can download a prezipped version here:
 
-https://highlevelbitcoin.com/wp-content/uploads/2020/11/btcpaywall-0.1.0.zip
+https://drive.google.com/file/d/1Q8RXafLklKCifXvo0OxQt-qhlDwkzZap/view?usp=sharing
 
 [![Watch the guide](https://raw.githubusercontent.com/supertestnet/btcpaywall/main/images/Screenshot%202020-11-03%20at%207.16.49%20AM.png)](https://raw.githubusercontent.com/supertestnet/btcpaywall/main/videos/installation-guide.mp4)
 
