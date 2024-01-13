@@ -7,6 +7,10 @@ https://drive.google.com/file/d/1Q8RXafLklKCifXvo0OxQt-qhlDwkzZap/view?usp=shari
 
 [![Watch the guide](https://raw.githubusercontent.com/supertestnet/btcpaywall/main/images/Screenshot%202020-11-03%20at%207.16.49%20AM.png)](https://raw.githubusercontent.com/supertestnet/btcpaywall/main/videos/installation-guide.mp4)
 
+# Video explanation
+
+https://www.youtube.com/watch?v=O_Amk5ql1os
+
 # Installation
 
 Install and activate the plugin through the plugins page in the backend of your wordpress installation. Just select Add new and upload the zip file.
